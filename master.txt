@@ -1,1 +1,2 @@
 public static String = "Bishwajit1616";
+public static integer = "Bishwajit1616";
