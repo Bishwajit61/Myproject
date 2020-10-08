@@ -7,4 +7,5 @@ public static String = "Bishwajit1";
 
 
 public static integer = 3456
+public static integer = bnm
 
